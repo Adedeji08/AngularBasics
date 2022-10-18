@@ -28,7 +28,7 @@ export class ProductsComponent implements OnInit {
     {id:2, name: 'Minimalists Analog Watch', price: '109', color: 'black', available: 'Not Available', image: '/assets/Product_Photography.jpeg'},
     {id:3, name: 'Minimalists Analog Watch', price: '109', color: 'black', available: 'Available', image: '/assets/Product_Photography.jpeg'},
     {id:4, name: 'Minimalists Analog Watch', price: '109', color: 'black', available: 'Not Available', image: '/assets/Product_Photography.jpeg'},
-    {id:5, name: 'Minimalists Analog Watch', price: '109', color: 'black', available: 'Available', image: '/assets/Product_Photography.jpeg'},
+    {id:5, name: 'Minimalists Analog Watc', price: '109', color: 'black', available: 'Available', image: '/assets/Product_Photography.jpeg'},
     {id:6, name: 'Minimalists Analog Watch', price: '109', color: 'black', available: 'Available', image: '/assets/Product_Photography.jpeg'},
    ]
 }
